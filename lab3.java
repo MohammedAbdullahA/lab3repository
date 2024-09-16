@@ -4,6 +4,7 @@ import java.util.List;
 
 public class lab3 {
     String x;
+    String k1;
     public static List<String> getStudents() {
         List<String> students = new ArrayList<>();
         students.add("Mohammed");
